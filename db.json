@@ -41,6 +41,12 @@
       "name": "Fiddle Leaf Fig",
       "image": "./images/fiddle-leaf-fig.jpg",
       "price": 55
+    },
+    {
+      "name": "Chinese Evergreen",
+      "image": "https://hips.hearstapps.com/vader-prod.s3.amazonaws.com/1679061325-chinese-evergreens-6414713d074fc.jpg?crop=0.98xw:1xh;center,top&resize=980:*",
+      "price": "22.55",
+      "id": 8
     }
   ]
 }
